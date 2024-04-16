@@ -48,12 +48,6 @@
         <!--about section starts-->
             <section class="about">
 
-                <div class="image">
-                    <img src="images/p.png" alt="">
-                    <img src="images/s.png" alt="">
-                    <img src="images/t.png" alt="">
-                </div>
-
                 <div class="content">
                     <h3>why choose us</h3>
                     <p>Client oriented services</p>
